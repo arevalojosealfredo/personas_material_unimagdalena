@@ -15,4 +15,5 @@
     <string name="apellido">Apellido</string>
     <string name="boton_guardar">GUARDAR</string>
     <string name="boton_limpiar">LIMPIAR</string>
+    <string name="mensaje_guardar">Persona Guardada Exitosamente</string>
 </resources>

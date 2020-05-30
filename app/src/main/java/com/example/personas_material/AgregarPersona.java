@@ -39,6 +39,7 @@ public class AgregarPersona extends AppCompatActivity {
         ced = cedula.getText().toString();
         nom = nombre.getText().toString();
         apell = apellido.getText().toString();
+        foto = foto_aleatoria();
         persona = new Persona(ced, nom, apell, foto);
         persona.guardar();
         limpiar();

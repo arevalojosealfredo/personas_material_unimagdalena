@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1008033870833",
+    "firebase_url": "https://personasmaterialunimgadalena.firebaseio.com",
+    "project_id": "personasmaterialunimgadalena",
+    "storage_bucket": "personasmaterialunimgadalena.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008033870833:android:6f68247218914a82270a50",
+        "android_client_info": {
+          "package_name": "com.example.personas_material"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008033870833-gr831608359vr93lnfunb2f7kmh9kclr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personas_material",
+            "certificate_hash": "808f1e37a77128c8d3b5780b0034494eadba67c7"
+          }
+        },
+        {
+          "client_id": "1008033870833-k3qojsqcehnbhst9pggkobq8gpnr0s11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwDiO07aJUk9qwmGlOCZsVOm3c7TwHXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008033870833-k3qojsqcehnbhst9pggkobq8gpnr0s11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
